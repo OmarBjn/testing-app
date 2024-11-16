@@ -1,5 +1,4 @@
 # Ignore everything in this directory
-# *
-m2.py
+*
 # Except this file
-# !.gitignore
+!.gitignore
